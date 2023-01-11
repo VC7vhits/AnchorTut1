@@ -1,4 +1,4 @@
-#NOTE: 
+# NOTE
     - create the address keypair which store the data of sum by following code 
         * solana-keygen new -o ./_user/additions.json
 
